@@ -4,3 +4,7 @@ div {
     justify-content: center;
     height: 100vh;
 }
+h1{
+    font-size: 100px;
+    color: red;
+}
