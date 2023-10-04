@@ -1,0 +1,2 @@
+## Knowledge
+This is a test repo of github and git version control system. I have learned about git basics. Such as, add files to git, commit, stage area, branch, how to go back in git, merge branch and many more.
